@@ -1,0 +1,6 @@
+A project I started working on a while ago using the Model, View, View-Model 
+design pattern in python with TKinter.
+
+This is an email GUI for use with an smtp server. It shows two way bindings and
+property changed functions to update the view. It also has the ability to use a
+style defined in a xml file.

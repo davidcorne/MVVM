@@ -1,0 +1,99 @@
+<Styles>
+  <!-- My style -->
+  <Style Name="DGC">
+    <Button>
+    </Button>
+    <Canvas>
+    </Canvas>
+    <Checkbutton>
+      <Background>steel blue</Background>
+      <Foreground>white</Foreground>
+    </Checkbutton>
+    <Entry>
+      <Disabledbackground>grey</Disabledbackground>
+    </Entry>
+    <Frame>
+    </Frame>
+    <Label>
+      <Background>steel blue</Background>
+      <Foreground>white</Foreground>
+      <Disabledforeground>grey</Disabledforeground>
+    </Label>
+    <LabelFrame>
+    </LabelFrame>
+    <Listbox>
+    </Listbox>
+    <Menu>
+    </Menu>
+    <Menubutton>
+    </Menubutton>
+    <Message>
+    </Message>
+    <OptionMenu>
+    </OptionMenu>
+    <PanedWindow>
+    </PanedWindow>
+    <Radiobutton>
+    </Radiobutton>
+    <Scale>
+    </Scale>
+    <Scrollbar>
+    </Scrollbar>
+    <Spinbox>
+    </Spinbox>
+    <Text>
+    </Text>
+    <Tk>
+      <Background>steel blue</Background>
+      <Borderwidth>20</Borderwidth>
+      <Relief>flat</Relief>
+    </Tk>
+    <Toplevel>
+      <Background>steel blue</Background>
+    </Toplevel>
+  </Style>
+
+  <!-- The default style -->
+  <Style Name="Default">
+    <Button>
+    </Button>
+    <Canvas>
+    </Canvas>
+    <Checkbutton>
+    </Checkbutton>
+    <Entry>
+    </Entry>
+    <Frame>
+    </Frame>
+    <Label>
+    </Label>
+    <LabelFrame>
+    </LabelFrame>
+    <Listbox>
+    </Listbox>
+    <Menu>
+    </Menu>
+    <Menubutton>
+    </Menubutton>
+    <Message>
+    </Message>
+    <OptionMenu>
+    </OptionMenu>
+    <PanedWindow>
+    </PanedWindow>
+    <Radiobutton>
+    </Radiobutton>
+    <Scale>
+    </Scale>
+    <Scrollbar>
+    </Scrollbar>
+    <Spinbox>
+    </Spinbox>
+    <Text>
+    </Text>
+    <Tk>
+    </Tk>
+    <Toplevel>
+    </Toplevel>
+  </Style>
+</Styles>

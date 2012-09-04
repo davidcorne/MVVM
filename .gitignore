@@ -1,0 +1,13 @@
+# ignore debug.log
+debug.log
+
+# ignore emacs temp files
+*~
+
+# ignore the byte compiled files
+*.pyc
+
+# ignore the py2exe files
+build
+dist
+makefile
